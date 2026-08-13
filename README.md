@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31045479/README.md)
+[README.md](https://github.com/user-attachments/files/31046069/README.md)
 # Kill Counter Overlay
 
 A stream overlay (wins / losses counter) for OBS, controllable from a Stream Deck.
